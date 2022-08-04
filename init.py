@@ -1,5 +1,3 @@
-
-
-for i in range(20):
-    print ('Hello World!')
-    print ('Hello World!')
+def method():
+    for i in range(10):
+        print ("Hello")
